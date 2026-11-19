@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.cubemx-local/
+build/
+out/
+*.log
+*.elf
+*.bin
+*.hex
+*.zip
+.DS_Store
+Thumbs.db

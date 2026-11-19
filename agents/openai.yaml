@@ -1,0 +1,6 @@
+interface:
+  display_name: "STM32CubeMX · F405 / F103"
+  short_description: "配置 STM32F405 与 F103C8T6 引脚及外设，生成官方 CMake 工程并验证编译"
+  default_prompt: "使用 $stm32cubemx-cmake，根据我的原理图或接线配置 STM32，并调用 CubeMX 生成 CMake 工程和验证编译。"
+policy:
+  allow_implicit_invocation: true
